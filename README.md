@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://as1.ftcdn.net/v2/jpg/03/54/00/74/1000_F_354007466_mm4QilA3n92YWPseqs82gbWxbb06R1i4.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/03/57/54/19/1000_F_357541960_PFK1BHUbuwgRvuDJI6IW2hKFJhy1g7Dw.jpg>
+ <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/03/57/54/19/1000_F_357541960_PFK1BHUbuwgRvuDJI6IW2hKFJhy1g7Dw.jpg">
  <img alt="Imagen data analyst" src="https://as2.ftcdn.net/v2/jpg/03/57/54/19/1000_F_357541960_PFK1BHUbuwgRvuDJI6IW2hKFJhy1g7Dw.jpg">
 </picture>
