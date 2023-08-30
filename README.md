@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ## Acerca de mí / About me
 
 Hola, soy Jaime. Apasionado de las matemáticas, estadística y la programación.
+
+# Skills
+
+https://www.python.org/community/logos/
