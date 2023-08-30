@@ -21,6 +21,6 @@ Here are some ideas to get you started:
  <img alt="Imagen data analyst" src="https://as2.ftcdn.net/v2/jpg/03/57/54/19/1000_F_357541960_PFK1BHUbuwgRvuDJI6IW2hKFJhy1g7Dw.jpg">
 </picture>
 
-## About me
+## Acerca de mí / About me
 
 Hola, soy Jaime. Apasionado de las matemáticas, estadística y la programación.
