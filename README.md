@@ -31,5 +31,4 @@ Hola, soy Jaime. Apasionado de las matemáticas, estadística y la programación
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-F7DF1E?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 [![PowerBi](https://img.shields.io/badge/PowerBi-232F3E?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
