@@ -3,9 +3,9 @@
 <!--**JaimeGalanC/JaimeGalanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista.jpg">
- <img alt="Imagen data analyst" src="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista-text.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista-text.jpg">
+ <img alt="Imagen data analyst" src="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista-text.jpg">
 </picture>
 
 ## Acerca de mí / About me
