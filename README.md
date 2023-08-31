@@ -1,7 +1,6 @@
-### Bienvenido 👋
+### Bienvenido a mi GitHub👋
 
-<!--
-**JaimeGalanC/JaimeGalanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**JaimeGalanC/JaimeGalanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaimeGalanC/JaimeGalanC/blob/main/robot-analista.jpg">
